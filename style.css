@@ -1,0 +1,35 @@
+body{
+    background-size: cover;
+}
+
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+
+#start,#Status,#Objects_Detected{
+    font-size: 18px;
+}
+
+.copyright_footer{
+    position: fixed;
+    font-size: 23px;
+    background-color: grey;
+    color: white;
+    bottom: 0;
+    line-height: 3;
+    text-align: center;
+    width: 100%;
+}
+
+canvas{
+    box-shadow: 10px 10px 10px grey;
+    border: 2px dashed black ;
+    margin-top: 150px;
+    border-radius: 10px;
+}
+
+h4{
+    color: white;
+}
